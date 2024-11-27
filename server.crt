@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4096 (0x1000)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TN, L=Knoxville, O=Vols, OU=UT, CN=Jake/emailAddress=amarlow6@vols.utk.edu
+        Validity
+            Not Before: Nov 27 04:53:35 2024 GMT
+            Not After : Nov 27 04:53:35 2025 GMT
+        Subject: C=US, ST=TN, O=Vols, OU=UT, CN=Jake/emailAddress=amarlow6@vols.utk.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c4:dc:e7:0f:ac:71:f2:54:dd:0b:b4:64:aa:11:
+                    5b:13:3b:13:8f:71:cc:0a:67:c7:33:6d:f7:41:9e:
+                    28:12:94:ae:7f:de:13:89:b5:b5:f1:5b:5e:b6:73:
+                    1f:69:b3:08:14:a3:86:a4:ac:2e:26:88:f4:d9:df:
+                    ec:8d:2f:18:0d:30:8f:b9:38:b7:ca:dd:95:f7:39:
+                    4a:ce:09:e0:c0:48:c7:d1:cc:9b:c0:d7:31:8b:08:
+                    09:ca:6f:e5:0d:e8:68:15:a3:6f:4f:42:92:26:e3:
+                    90:56:63:1f:d4:9c:a6:64:84:1b:63:f0:38:f7:86:
+                    66:9c:27:e3:ba:4d:25:dd:a3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                47:17:51:F2:2A:6A:B5:28:E0:CB:0D:C7:1E:DE:20:32:76:3A:10:81
+            X509v3 Authority Key Identifier: 
+                50:5A:36:86:60:2D:CE:4C:DD:59:4E:96:74:40:05:D0:BA:2D:64:27
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        91:eb:7f:91:8c:d6:58:f3:78:c9:bd:e8:54:f7:0b:8a:b0:7d:
+        94:8a:85:7d:c6:9f:55:f0:d9:9c:ff:e4:b0:03:04:36:7b:f0:
+        ba:15:4b:f0:c1:99:0d:5b:d6:e1:90:07:ca:de:5e:36:b4:b9:
+        ed:81:75:f2:5b:ba:c1:5f:b3:92:61:08:12:72:20:0c:ea:f0:
+        8f:d9:7f:52:15:ad:58:a2:b9:68:90:03:21:1f:37:eb:ef:47:
+        4a:82:e8:77:72:e4:e5:f6:68:7c:4b:57:61:3c:8a:26:ab:0c:
+        72:d2:df:fb:43:00:75:5c:53:bc:8d:9c:1d:91:95:3a:36:3e:
+        34:fe:a9:55:2f:67:2c:64:d7:a7:b9:0a:42:59:42:37:e7:bf:
+        85:f6:2f:d7:fb:a5:c4:3f:19:88:a2:0e:9b:7e:e5:20:eb:48:
+        03:69:f2:b3:4b:9a:56:51:5c:43:a6:25:96:a6:9c:2e:24:43:
+        27:6e:b8:fc:7e:92:92:32:6f:14:ff:1d:af:99:2f:cd:22:02:
+        44:fa:75:67:3e:3e:76:5c:cb:cf:74:85:18:df:2d:bb:d6:f7:
+        2e:77:be:42:22:e6:ec:b4:cf:4b:80:3c:3a:fb:78:68:35:95:
+        45:e9:6b:9b:ba:42:82:64:87:a8:83:dd:33:34:2c:d0:67:a4:
+        8a:d2:29:1c
+-----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgICEAAwDQYJKoZIhvcNAQELBQAwfzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgMAlROMRIwEAYDVQQHDAlLbm94dmlsbGUxDTALBgNVBAoMBFZvbHMx
+CzAJBgNVBAsMAlVUMQ0wCwYDVQQDDARKYWtlMSQwIgYJKoZIhvcNAQkBFhVhbWFy
+bG93NkB2b2xzLnV0ay5lZHUwHhcNMjQxMTI3MDQ1MzM1WhcNMjUxMTI3MDQ1MzM1
+WjBrMQswCQYDVQQGEwJVUzELMAkGA1UECAwCVE4xDTALBgNVBAoMBFZvbHMxCzAJ
+BgNVBAsMAlVUMQ0wCwYDVQQDDARKYWtlMSQwIgYJKoZIhvcNAQkBFhVhbWFybG93
+NkB2b2xzLnV0ay5lZHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMTc5w+s
+cfJU3Qu0ZKoRWxM7E49xzApnxzNt90GeKBKUrn/eE4m1tfFbXrZzH2mzCBSjhqSs
+LiaI9Nnf7I0vGA0wj7k4t8rdlfc5Ss4J4MBIx9HMm8DXMYsICcpv5Q3oaBWjb09C
+kibjkFZjH9ScpmSEG2PwOPeGZpwn47pNJd2jAgMBAAGjTTBLMAkGA1UdEwQCMAAw
+HQYDVR0OBBYEFEcXUfIqarUo4MsNxx7eIDJ2OhCBMB8GA1UdIwQYMBaAFFBaNoZg
+Lc5M3VlOlnRABdC6LWQnMA0GCSqGSIb3DQEBCwUAA4IBAQCR63+RjNZY83jJvehU
+9wuKsH2UioV9xp9V8Nmc/+SwAwQ2e/C6FUvwwZkNW9bhkAfK3l42tLntgXXyW7rB
+X7OSYQgSciAM6vCP2X9SFa1YorlokAMhHzfr70dKguh3cuTl9mh8S1dhPIomqwxy
+0t/7QwB1XFO8jZwdkZU6Nj40/qlVL2csZNenuQpCWUI357+F9i/X+6XEPxmIog6b
+fuUg60gDafKzS5pWUVxDpiWWppwuJEMnbrj8fpKSMm8U/x2vmS/NIgJE+nVnPj52
+XMvPdIUY3y271vcud75CIubstM9LgDw6+3hoNZVF6WubukKCZIeog90zNCzQZ6SK
+0ikc
+-----END CERTIFICATE-----
